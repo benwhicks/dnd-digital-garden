@@ -15,7 +15,6 @@
 
 Alignment is for the gods and other creatures beyond the material plane. Characters and NPCs are assumed to have an alignment that emerges from their actions, and is subject to change depending on circumstance and context. 
 
-
 ## Languages
 
 Just choose anything for languages on DnD beyond - they are sorted out later. Languages in [[Anguun\|Anguun]] are not tied to Species (i.e. "Elvish" is not a language). Once your character is created and you have a number of languages, these can be replaced by any of the [[Languages of Anguun\|Languages of Anguun]]. Essentially there is one common tongue for each continent, a handful of local dialects and arcane languages, and some mystical languages associated with magical beings and realms. 

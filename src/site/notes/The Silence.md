@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/the-silence/"}
+---
+
+40 years ago the gods went silent. This was in conjunction with a [[3 star alignment\|3 star alignment]]. Since then the rulers of [[Panthos\|Panthos]] have lost some sway over the population, as one of the pillars of control - the various churches of the lands - become first unable to call upon divine insight into the future, and later even the capacity to heal the sick.  
+
+Some regions have had to tighten their rule on the populous to quell uprising and discontent. Acts of nature, such as the failure of crops, without the comfort of the divine has left many seeking answers from those in power. A sect called [[Absconditus a Diis\|Absconditus a Diis]] (the hidden from god) has arisen in various parts - calling on a more complete severence in communication between the people of [[Panthos\|Panthos]] and [[Pantheon of Anguun\|The Pantheon]], and war in the southern border between [[Eos\|Eos]] and [[Neduyar\|Neduyar]] has erupted between those two nations and the emerging sect. Others have reacted just as extreme, but in the other direction. In [[Tajut\|Tajut]] the [[Yutahirin\|Yutahirin]] (those that purify themselves) have begun seeking to redeem the world in the eyes of the gods. This has resulted in atrocitices to the south in [[Derudara\|Derudara]], the umbral lands, where the Drow and Kenku are already seen as lesser beings, and the practice of shadow magic as evil by the holy in [[Tajut\|Tajut]].
