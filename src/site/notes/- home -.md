@@ -24,3 +24,4 @@ Set at the same time as [[Campaign - Ambitions of Inma\|Campaign - Ambitions of 
 
 # Meta
 - [[- House rules -\|- House rules -]] outlines any deviations / flavour changes from DnD 5e rules. 
+- (Hidden) [[-org\|-org]] notes and [[GM-notes\|GM-notes]]
