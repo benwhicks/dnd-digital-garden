@@ -3,7 +3,7 @@
 ---
 
 #place/panthos 
-A powerful empire north of [[Bonnurka\|Bonnurka]] and north west of [[The Shogonate\|The Shogonate]]. Known as the spiritual home of the [[Pantheon of Anguun\|Pantheon of Anguun]] gods, and styled somewhere between and ancient greek / khmer culture. Thriving in art and culture, but deeply connected to the work of the many gods and their relationship with nature, and their influence on daily life. Also home to the [[Automatoa\|Automatoa]], arcane robot constructs made of stone, metal or (typically wood) organics. 
+A powerful empire north of [[Bonnurka\|Bonnurka]] and north west of [[Seyahai\|Seyahai]]. Known as the spiritual home of the [[Pantheon of Anguun\|Pantheon of Anguun]] gods, and styled somewhere between and ancient greek / khmer culture. Thriving in art and culture, but deeply connected to the work of the many gods and their relationship with nature, and their influence on daily life. Also home to the [[Automatoa\|Automatoa]], arcane robot constructs made of stone, metal or (typically wood) organics. 
 
 ![Panthos politic map.jpg](/img/user/Images/Panthos%20politic%20map.jpg)
 

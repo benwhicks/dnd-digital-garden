@@ -4,7 +4,7 @@
 
 
 
-East of the lands of the [[Simain\|Simain]], south east of [[The Shogonate\|The Shogonate]], lies a collapsed part of the world of [[Anguun\|Anguun]] that boats simply do not return from. Deep fog and clouds are the first sign, and some have sailed a little ways into them, noting their intense moisture and buffeting winds. It's boundary is easily seen from afar - a wall of dense clouds from sea to sky, punctuated by occasional yellow lightning. This is known as the Storm Wall. 
+East of the lands of the [[Simain\|Simain]], south east of [[Seyahai\|Seyahai]], lies a collapsed part of the world of [[Anguun\|Anguun]] that boats simply do not return from. Deep fog and clouds are the first sign, and some have sailed a little ways into them, noting their intense moisture and buffeting winds. It's boundary is easily seen from afar - a wall of dense clouds from sea to sky, punctuated by occasional yellow lightning. This is known as the Storm Wall. 
 
 # Lore, tales, rumours
 
