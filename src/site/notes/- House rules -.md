@@ -11,7 +11,8 @@ For introducing players to the game, or just getting started quickly, use this s
 
 ### Abilities, Class and Species
 
-Don’t bother rolling (or even including the score), just choose where to place the modifiers: +4, +3, +2, +1, 0, -1. This takes into account rolls and modifiers from race / background. 
+Don’t bother rolling (or even including the score), just choose where to place the modifiers: +4, +3, +2, +1, 0, -1. This takes into account rolls and modifiers from race / background. Then choose class, species and background. Take all the recommended skills were possible, and take the recommended spells unless the player has some ideas about what kind of magic they have. 
+Do spend time choosing background and feats, and use these to think about the characters background. I like allowing for an extra feat at level 1 (see below) but only if the player can describe how they learned this, and from who.p
 
 ## DnD beyond settings (first page)
 
