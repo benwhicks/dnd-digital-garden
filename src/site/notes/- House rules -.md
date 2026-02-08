@@ -5,6 +5,14 @@
 
 # Character creation
 
+## Simplified version
+
+For introducing players to the game, or just getting started quickly, use this simplified version and [[simplified-character-sheet\|simplified-character-sheet]].
+
+### Abilities, Class and Species
+
+Don’t bother rolling (or even including the score), just choose where to place the modifiers: +4, +3, +2, +1, 0, -1. This takes into account rolls and modifiers from race / background. 
+
 ## DnD beyond settings (first page)
 
 - *Core Rules* and *Expanded Rules* on
@@ -16,7 +24,7 @@
 
 ### Rolling abilities
 
-4d6 drop the lowest to build 6 scores that you can assign to any ability. However if the total is 70 or less or there is no score of 15 or higher you can re-roll. 
+5d6 drop the two lowest to build 4 scores, one 4d6 drop the lowest and one 3d6 to build the six scores that you can assign to any ability. However if the total is 70 or less or there is no score of 15 or higher you can re-roll. 
 
 ### Backstory & Bonus Feat
 

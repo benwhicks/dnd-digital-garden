@@ -4,8 +4,4 @@
 
 
 
-```statblock
-monster: Goblin Warrior
-```
-
-An elder human priest of [[Helia\|Helia]]
+An elder human priest of [[Helia\|Helia]], died and then [[Twice-Born\|Twice-Born]].

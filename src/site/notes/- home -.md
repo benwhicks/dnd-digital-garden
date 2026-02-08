@@ -5,7 +5,7 @@
 
 # Setting
 
-All campaigns take place in the world of [[Anguun\|Anguun]]. 
+This site outlines the sprawling notes for my DnD campaigns. All campaigns take place in the world of [[Anguun\|Anguun]]. 
 
 # Campaigns
 

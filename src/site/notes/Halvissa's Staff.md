@@ -40,7 +40,7 @@ There is a sentience within the staff, referring to itself as "Gulfazar", a merg
 
 ## Descent into madness
 
-Using the staff incurs a chance of progressive madness, as the will of the staff becomes more dominant. Upon attuning the staff, the wielder is at Stage 0. Depending on how heavily the staff has been used the wielder runs a risk of descending into madness. The staff has 50 charges, and recharges `4d6+2` charges at dawn. If the staff has less than 30 charges when recharging, the user must make a DC 8 + the current stage of madness num er Wisdom save or increase their stage by 1, incurring all penalties. If the staff has fewer than 10 charges when recharging the DC is 12 + the current stage number. If the staff is reduced to 0 charges at any point an immediate save is made at of DC 15 + the current stage number.
+Using the staff incurs a chance of progressive madness, as the will of the staff becomes more dominant. Upon attuning the staff, the wielder is at Stage 0. Depending on how heavily the staff has been used the wielder runs a risk of descending into madness. The staff has 50 charges, and recharges `4d6+2` charges at dawn. If the staff has less than 30 charges when recharging, the user must make a DC 8 + the current stage of madness number Wisdom save or increase their stage by 1, incurring all penalties. If the staff has fewer than 10 charges when recharging the DC is 12 + the current stage number. If the staff is reduced to 0 charges at any point an immediate save is made at of DC 15 + the current stage number.
 
 All effects, and benefits, are cumulative.
 

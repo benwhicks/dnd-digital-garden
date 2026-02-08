@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/cerescribes/"}
 ---
 
+#faction/ovrunium-order/cerescribes 
 Part of the [[Ovrunium Order\|Ovrunium Order]] that specialises in the magics of scribing, geomancy. Based in the wealthy trade city of [[Port Mern\|Port Mern]]. 
 
 Headed by [[Penedo Bosovulo\|Penedo Bosovulo]].
