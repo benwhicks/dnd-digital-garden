@@ -21,11 +21,28 @@ Do spend time choosing background and feats, and use these to think about the ch
 - Optional features off. 
 - Feats, Multiclass requirements on
 
-## Level 1
+## Detailed character creation
 
 ### Rolling abilities
 
 5d6 drop the two lowest to build 4 scores, one 4d6 drop the lowest and one 3d6 to build the six scores that you can assign to any ability. However if the total is 70 or less or there is no score of 15 or higher you can re-roll. 
+
+### Levelling up
+
+#### Rolling HP when levelling up
+
+Roll the HD but you can re-roll according to the HD:
+
+| HD | Re-rolling low scores |
+| --- | --- |
+| d6: | Re-roll any 1s | 
+| d8: | Re-roll any 1s (as much as you need) and 2s (once) |
+| d10: | Re-roll any 1s (as much as you need) and 2s (once) or 3s (once) |
+| d12: | Re-roll any 1s or 2s (as much as you need) or 3s (once) or 4s (once) |
+
+#### Narrative levelling up
+
+When characters level up they can do so immediately, or choose a moment during play (any!) that is a fun spot to do so. The DM can give advantage on their next roll for a well chosen moment. 
 
 ### Backstory & Bonus Feat
 
